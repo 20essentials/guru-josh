@@ -1,0 +1,23 @@
+export const nameBand = ' GURU JOSH ';
+export const nameSongs = [
+	"INFINITY 2008", /*1*/
+	"ETERNITY", /*2*/
+	"WAREHOUSE REQUIEM", /*3*/
+	"LIFT UP YOUR ARMS", /*4*/
+	"INFINITY (KLAAS VOCAL MIX)", /*5*/
+	"WHOSE LAW (IS IT ANYWAY?)", /*6*/
+	"THE WANDERER", /*7*/
+	"POWER FORCE", /*8*/
+	"POPCORN", /*9*/
+	"INFINITY 2012", /*10*/
+	"MOVE YOUR BODY", /*11*/
+	"CRAVE IT", /*12*/
+	"E-MINOR DIM 7", /*13*/
+	"WHOSE LAW (12th VERSION)", /*14*/
+	"SINTHONY - INFINITY", /*15*/
+	"LOUIE LOUIE", /*16*/
+	"PLEASE DON'T GO", /*17*/
+	"INFINITY 2018 (JAY FROG REMIX)", /*18*/
+	"BURN TOGETHER", /*19*/
+	"INFINITY (NAYIO BITZ REMIX)", /*20*/
+]
